@@ -1,67 +1,170 @@
-import time
-import json
-import re
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.common.exceptions import NoSuchElementException
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Juegos Xbox | Venezuela</title>
+    
+    <style>
+        /* BASE */
+        body { 
+            font-family: 'Segoe UI', Arial, sans-serif; 
+            background-color: #0d1117; /* Fondo oscuro */
+            color: #e6e6e6; 
+            margin: 0; 
+            padding: 30px 10px; 
+        }
+        
+        h1 { 
+            text-align: center; 
+            color: #107c10; /* Color principal Xbox verde */
+            font-size: 2.5rem;
+            margin-bottom: 40px;
+            text-shadow: 0 0 5px rgba(16, 124, 16, 0.5); /* Efecto neón suave */
+        }
+        
+        /* CUADRÍCULA (GRID) */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 30px;
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+        
+        /* TARJETA DEL JUEGO */
+        .card {
+            background: #161b22; 
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px solid #30363d;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+        }
+        .card:hover { 
+            transform: translateY(-8px); 
+            border-color: #107c10;
+            box-shadow: 0 8px 20px rgba(16, 124, 16, 0.3); /* Sombra verde al pasar el ratón */
+        }
+        
+        .card img { 
+            width: 100%; 
+            height: 300px;
+            object-fit: cover; 
+            display: block;
+        }
+        
+        .info { 
+            padding: 20px; 
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 150px; 
+        }
+        
+        .platform { 
+            font-size: 0.8rem; 
+            color: #58a6ff; 
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+        
+        .title { 
+            font-size: 1.1rem; 
+            font-weight: bold; 
+            color: #c9d1d9;
+            margin-bottom: 15px; 
+            height: 40px; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            white-space: normal;
+        }
+        
+        .price { 
+            font-size: 1.8rem; 
+            color: #107c10; 
+            font-weight: 900; 
+            text-align: right;
+            margin-bottom: 10px;
+        }
+        
+        .btn-buy {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            background: #107c10; 
+            color: #ffffff;
+            text-align: center;
+            text-decoration: none;
+            margin-top: 10px;
+            border-radius: 8px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: background-color 0.2s;
+        }
+        .btn-buy:hover {
+            background-color: #0c6a0c; 
+        }
 
-def obtener_juegos():
-    # --- Configuración del Navegador Headless (Invisible) ---
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless') 
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    
-    # URL de Búsqueda: Xbox Keys, Precio < 20, Regiones (Global, AR, US, TR).
-    url = "https://www.eneba.com/store/games?drm[]=xbox_one_and_series_x_s_key&page=1&price[]=0&price[]=20&regions[]=global&regions[]=argentina&regions[]=united_states&regions[]=turkey&types[]=game"
-    
-    driver.get(url)
-    time.sleep(7) # Espera a que la página cargue completamente
-    
-    juegos_data = []
-    
-    # --- Extracción de Datos y Lógica ---
-    items = driver.find_elements(By.CSS_SELECTOR, "div.pFaGHa") 
-    
-    for item in items:
-        try:
-            # Extracción básica
-            titulo = item.find_element(By.CSS_SELECTOR, "span.YLosEL").text
-            imagen = item.find_element(By.TAG_NAME, "img").get_attribute("src")
-            link = item.find_element(By.TAG_NAME, "a").get_attribute("href")
-            
-            # 1. Extracción y Limpieza del Precio Original
-            precio_texto = item.find_element(By.CSS_SELECTOR, "span.L5ErLT").text
-            precio_float = float(re.sub(r'[^\d.]', '', precio_texto)) # Convierte el texto (ej: '$4.59') a número (4.59)
-            
-            # 2. Lógica de Precios: Sumar los $3.00 de comisión/ganancia
-            PRECIO_COMISION = 3.00
-            precio_final = round(precio_float + PRECIO_COMISION, 2)
-            
-            juegos_data.append({
-                "titulo": titulo,
-                "precio_original": precio_float,
-                "precio_venta": precio_final,
-                "imagen": imagen,
-                "link_compra": link,
-                "plataforma": "Xbox" 
+        /* MEDIA QUERIES (Para celulares) */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+                margin-bottom: 20px;
+            }
+            .grid-container {
+                grid-template-columns: 1fr; 
+            }
+            .card img {
+                height: 200px; 
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Catálogo de Juegos Xbox (Precio < $20 + $3 Comisión) 🇻🇪</h1>
+    <div class="grid-container" id="catalogo">
+        </div>
+
+    <script>
+        // Cargar el JSON generado por el bot.
+        // Se usa el parametro "?v=..." para evitar la caché del navegador y asegurar el precio más reciente.
+        fetch('catalogo.json?v=' + new Date().getTime())
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('No se encontró el archivo catalogo.json. Ejecute el bot.');
+                }
+                return response.json();
             })
-            
-        except NoSuchElementException:
-            continue
-        except Exception as e:
-            continue
-
-    driver.quit()
-    
-    # --- Guardar Resultado en JSON ---
-    with open('catalogo.json', 'w', encoding='utf-8') as f:
-        json.dump(juegos_data, f, ensure_ascii=False, indent=4)
-        print("Catálogo 'catalogo.json' actualizado exitosamente.")
-
-if __name__ == "__main__":
-    obtener_juegos()
+            .then(data => {
+                const contenedor = document.getElementById('catalogo');
+                
+                data.forEach(juego => {
+                    // Crea la tarjeta HTML para cada juego
+                    const card = `
+                        <div class="card">
+                            <img src="${juego.imagen}" alt="${juego.titulo}">
+                            <div class="info">
+                                <div class="platform">${juego.plataforma} | Global/Múltiples Regiones</div>
+                                <div class="title">${juego.titulo}</div>
+                                <div class="price">$${juego.precio_venta}</div>
+                                <a href="https://wa.me/58XXXXXXXXXX?text=Hola, quiero comprar ${encodeURIComponent(juego.titulo)} de Xbox por $${juego.precio_venta}" class="btn-buy" target="_blank">Comprar $${juego.precio_venta}</a>
+                            </div>
+                        </div>
+                    `;
+                    contenedor.innerHTML += card;
+                });
+                
+                if (data.length === 0) {
+                     contenedor.innerHTML = '<p style="color:yellow; text-align:center; font-size:1.2rem; margin-top:50px;">No se encontraron juegos que cumplan con los filtros (< $20). Intenta más tarde.</p>';
+                }
+            })
+            .catch(error => {
+                console.error('Error cargando catálogo:', error);
+                document.getElementById('catalogo').innerHTML = '<p style="color:red; text-align:center; font-size:1.5rem; margin-top:50px;">❌ Error al cargar el catálogo. Asegúrate de que el archivo `catalogo.json` exista y esté actualizado.</p>';
+            });
+    </script>
+</body>
+</html>

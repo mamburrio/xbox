@@ -25,8 +25,8 @@
     },
     {
         "titulo": "Tomb Raider I-III Remastered Starring Lara Croft (PC) Steam Key UNITED STATES",
-        "precio_original": 2.47,
-        "precio_venta": 5.47,
+        "precio_original": 2.45,
+        "precio_venta": 5.45,
         "imagen": "https://imgproxy.eneba.games/dxaujDgXMvo6rEDDwAYuqIRsNZZynOWT0FhvQ6G0jas/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy82/eXJwb0EzNUZ6azl1/aHhGWlIxaWNVSVFF/d1pSMmJWaFo0VkZq/NkhjLXV3LmpwZw",
         "link_compra": "https://www.eneba.com/steam-tomb-raider-i-iii-remastered-starring-lara-croft-pc-steam-key-united-states",
         "plataforma": "Xbox"
@@ -41,10 +41,18 @@
     },
     {
         "titulo": "Minecraft: Java & Bedrock Edition (PC) Official website Key UNITED STATES",
-        "precio_original": 16.33,
-        "precio_venta": 19.33,
+        "precio_original": 16.26,
+        "precio_venta": 19.26,
         "imagen": "https://imgproxy.eneba.games/xlbf5VpwMdfFult6X_0E7DPaewitogBWBqFqpP03m8k/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/YmR4N2loekprNDhi/QVNpX0cwakhFZ3gy/b2JmR1lFX3ROeVdz/anRKNGE0LnBuZw",
         "link_compra": "https://www.eneba.com/other-minecraft-java-bedrock-edition-pc-official-website-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "NBA 2K26 PSN (PS5) Key UNITED STATES",
+        "precio_original": 38.62,
+        "precio_venta": 41.62,
+        "imagen": "https://imgproxy.eneba.games/BHS2z_Ywe_faA3tSYMwLnY3ea4K1RvDZ7kpi_crbE-U/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy8w/RGFxa1FFb2hiWDNR/M2lNaENyNG1lTi01/bWRGMDN3bUNWU1I3/b2N4OXpFLmpwZw",
+        "link_compra": "https://www.eneba.com/psn-nba-2k26-psn-ps5-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -53,14 +61,6 @@
         "precio_venta": 8.69,
         "imagen": "https://imgproxy.eneba.games/cYj7R2OSIzSxaS_4cgyWKzcXM7bm7Lnq2RTzF0icj1I/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9T/aE9HNEdnLmpwZw",
         "link_compra": "https://www.eneba.com/steam-resident-evil-5-gold-edition-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "NBA 2K26 PSN (PS5) Key UNITED STATES",
-        "precio_original": 38.6,
-        "precio_venta": 41.6,
-        "imagen": "https://imgproxy.eneba.games/BHS2z_Ywe_faA3tSYMwLnY3ea4K1RvDZ7kpi_crbE-U/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy8w/RGFxa1FFb2hiWDNR/M2lNaENyNG1lTi01/bWRGMDN3bUNWU1I3/b2N4OXpFLmpwZw",
-        "link_compra": "https://www.eneba.com/psn-nba-2k26-psn-ps5-key-united-states",
         "plataforma": "Xbox"
     }
 ]

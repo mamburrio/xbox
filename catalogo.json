@@ -1,8 +1,8 @@
 [
     {
         "titulo": "Ghost of Yotei PSN (PS5) Key UNITED STATES",
-        "precio_original": 45.89,
-        "precio_venta": 48.89,
+        "precio_original": 45.9,
+        "precio_venta": 48.9,
         "imagen": "https://imgproxy.eneba.games/AwNvl3h_GPp3FWj-EDBcN8LnvefunMqyAy8Sft32SFY/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9r/d1o5QlJPV2RMdk5X/eEIwNXhreDRGeU4z/TWdjb0VhTm1VeHVJ/bzZrOEFJLmpwZw",
         "link_compra": "https://www.eneba.com/psn-ghost-of-yotei-psn-ps5-key-united-states",
         "plataforma": "Xbox"
@@ -17,8 +17,8 @@
     },
     {
         "titulo": "Elden Ring (PC) Steam Key UNITED STATES",
-        "precio_original": 37.36,
-        "precio_venta": 40.36,
+        "precio_original": 37.18,
+        "precio_venta": 40.18,
         "imagen": "https://imgproxy.eneba.games/RHwLjiV1l2amB1B-02rIrx7sJCIGI5lIvuDg4MRIFgc/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9x/eDhUYnRfUDRzMENV/V2hVaTB6WEVSZk5X/MXM3X3FHUzVXYkJP/X3VWdWRJLmpwZWc",
         "link_compra": "https://www.eneba.com/steam-elden-ring-pc-steam-key-united-states",
         "plataforma": "Xbox"
@@ -32,9 +32,17 @@
         "plataforma": "Xbox"
     },
     {
+        "titulo": "NBA 2K26 PSN (PS5) Key UNITED STATES",
+        "precio_original": 53.1,
+        "precio_venta": 56.1,
+        "imagen": "https://imgproxy.eneba.games/BHS2z_Ywe_faA3tSYMwLnY3ea4K1RvDZ7kpi_crbE-U/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy8w/RGFxa1FFb2hiWDNR/M2lNaENyNG1lTi01/bWRGMDN3bUNWU1I3/b2N4OXpFLmpwZw",
+        "link_compra": "https://www.eneba.com/psn-nba-2k26-psn-ps5-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
         "titulo": "ARC Raiders - Standard Edition (PC / Xbox Series X|S) XBOX LIVE Key UNITED STATES",
-        "precio_original": 34.24,
-        "precio_venta": 37.24,
+        "precio_original": 33.92,
+        "precio_venta": 36.92,
         "imagen": "https://imgproxy.eneba.games/ih3Yt_v9jGLb41HWElxREu25sEUZgx_tqNBQSCUIcCg/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy84/RGpZZTQ5Y01tNENk/TFN2N0hEWXVUVWJ6/UFA2dVRFSEpWNzZf/NTctc1E0LmpwZw",
         "link_compra": "https://www.eneba.com/xbox-arc-raiders-standard-edition-pc-xbox-series-x-s-xbox-live-key-united-states",
         "plataforma": "Xbox"
@@ -49,18 +57,10 @@
     },
     {
         "titulo": "Borderlands 4 Standard Edition (Xbox Series X|S) XBOX LIVE Key UNITED STATES",
-        "precio_original": 29.45,
-        "precio_venta": 32.45,
+        "precio_original": 29.46,
+        "precio_venta": 32.46,
         "imagen": "https://imgproxy.eneba.games/F2sjXrSeb-62-T4KfAvtqMHiZWo3ASNh_My6tUmjJM0/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/RXFEOF96ekJtb1Ra/czdUWGRNeEdvcE1O/MEtIVHU1ZVB1NmQ0/UmwxUGlJLjllN2Rk/YmI0LWVkNWItNDUx/OC05MTQ2LTFmODg0/MjYyYTk1YQ",
         "link_compra": "https://www.eneba.com/xbox-borderlands-4-standard-edition-xbox-series-x-s-xbox-live-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Resident Evil 2 / Biohazard RE:2 (PC) Steam Key UNITED STATES",
-        "precio_original": 9.2,
-        "precio_venta": 12.2,
-        "imagen": "https://imgproxy.eneba.games/u3oCz1NUQUDDtVXbyxqQQoRO0i7TYZz4o2siaGDS5Bs/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9G/blRBbTg3T1pyakNm/cm9aTUxBU0QyWU40/Y3FxcXJBRWdXVjJr/MlVSSVdzLmpwZWc",
-        "link_compra": "https://www.eneba.com/steam-resident-evil-2-biohazard-re-2-pc-steam-key-united-states",
         "plataforma": "Xbox"
     }
 ]

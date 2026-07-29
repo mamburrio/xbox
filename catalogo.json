@@ -25,8 +25,8 @@
     },
     {
         "titulo": "EA SPORTS FC 26 Standard Edition (Xbox Series X|S) XBOX LIVE Key UNITED STATES",
-        "precio_original": 18.29,
-        "precio_venta": 21.29,
+        "precio_original": 17.95,
+        "precio_venta": 20.95,
         "imagen": "https://imgproxy.eneba.games/A4Y2-rWwgtRzkZNFPRXsvaYbRmbv-bUIw-JuT_Ocjlk/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9R/akR2RmhWNGp6eS00/dHM5NVhuQ2V0a2ln/MUQ0b08tRGFNdnZE/ZGNmMEIwLmpwZw",
         "link_compra": "https://www.eneba.com/xbox-ea-sports-fc-26-standard-edition-xbox-series-x-s-xbox-live-key-united-states",
         "plataforma": "Xbox"
@@ -40,6 +40,14 @@
         "plataforma": "Xbox"
     },
     {
+        "titulo": "Minecraft: Java & Bedrock Edition (PC) Official website Key UNITED STATES",
+        "precio_original": 18.47,
+        "precio_venta": 21.47,
+        "imagen": "https://imgproxy.eneba.games/xlbf5VpwMdfFult6X_0E7DPaewitogBWBqFqpP03m8k/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/YmR4N2loekprNDhi/QVNpX0cwakhFZ3gy/b2JmR1lFX3ROeVdz/anRKNGE0LnBuZw",
+        "link_compra": "https://www.eneba.com/other-minecraft-java-bedrock-edition-pc-official-website-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
         "titulo": "Resident Evil Village / Resident Evil 8 (PC) Steam Key UNITED STATES",
         "precio_original": 4.8,
         "precio_venta": 7.8,
@@ -48,35 +56,11 @@
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Minecraft: Java & Bedrock Edition (PC) Official website Key UNITED STATES",
-        "precio_original": 18.44,
-        "precio_venta": 21.44,
-        "imagen": "https://imgproxy.eneba.games/xlbf5VpwMdfFult6X_0E7DPaewitogBWBqFqpP03m8k/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/YmR4N2loekprNDhi/QVNpX0cwakhFZ3gy/b2JmR1lFX3ROeVdz/anRKNGE0LnBuZw",
-        "link_compra": "https://www.eneba.com/other-minecraft-java-bedrock-edition-pc-official-website-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Risk of Rain 2 (PC) Steam Key UNITED STATES",
-        "precio_original": 5.19,
-        "precio_venta": 8.19,
-        "imagen": "https://imgproxy.eneba.games/3TO4uXiQHny4Nj840SYnFWsB3HkwP9KGue0TXDSnxd4/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9o/OG5MYlQ0M3g1Y3M5/d0pPTVBqN3lmWkxR/Z01ySF85bHNnZExR/eGtYSnlBLmpwZWc",
-        "link_compra": "https://www.eneba.com/steam-risk-of-rain-2-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
         "titulo": "Tomodachi Life™: Living the Dream (Nintendo Switch) eShop Key UNITED STATES",
-        "precio_original": 42.98,
-        "precio_venta": 45.98,
-        "imagen": "https://products.eneba.games/drms/v1/nintendo.svg",
+        "precio_original": 43.0,
+        "precio_venta": 46.0,
+        "imagen": "https://imgproxy.eneba.games/0MT7lPax5bnkQEBIuAEihezVjZgHC0PiXMUixO0mZ0c/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9r/SU1xbHUwWTVWZWYt/aHpWTmpiMUlFM0Iw/NnUzeS1Va2hwUlUz/MjJCU2V3LmpwZWc",
         "link_compra": "https://www.eneba.com/nintendo-tomodachi-lifetm-living-the-dream-nintendo-switch-eshop-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Slime Rancher (PC) Steam Key UNITED STATES",
-        "precio_original": 18.99,
-        "precio_venta": 21.99,
-        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-slime-rancher-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -88,11 +72,19 @@
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Squirrel with a Gun (PC) Steam Key UNITED STATES",
-        "precio_original": 19.99,
-        "precio_venta": 22.99,
+        "titulo": "Risk of Rain 2 (PC) Steam Key UNITED STATES",
+        "precio_original": 5.19,
+        "precio_venta": 8.19,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-squirrel-with-a-gun-pc-steam-key-united-states",
+        "link_compra": "https://www.eneba.com/steam-risk-of-rain-2-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "Slime Rancher (PC) Steam Key UNITED STATES",
+        "precio_original": 18.99,
+        "precio_venta": 21.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-slime-rancher-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -104,19 +96,11 @@
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Ready or Not (PC) Steam Key UNITED STATES",
-        "precio_original": 18.51,
-        "precio_venta": 21.51,
+        "titulo": "Squirrel with a Gun (PC) Steam Key UNITED STATES",
+        "precio_original": 19.99,
+        "precio_venta": 22.99,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-ready-or-not-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
-        "precio_original": 52.33,
-        "precio_venta": 55.33,
-        "imagen": "https://products.eneba.games/drms/v1/psn.svg",
-        "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
+        "link_compra": "https://www.eneba.com/steam-squirrel-with-a-gun-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -128,35 +112,51 @@
         "plataforma": "Xbox"
     },
     {
+        "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
+        "precio_original": 52.36,
+        "precio_venta": 55.36,
+        "imagen": "https://products.eneba.games/drms/v1/psn.svg",
+        "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
         "titulo": "Halo: The Master Chief Collection (Xbox One) Xbox Live Key UNITED STATES",
-        "precio_original": 15.66,
-        "precio_venta": 18.66,
+        "precio_original": 15.67,
+        "precio_venta": 18.67,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-halo-the-master-chief-collection-xbox-one-xbox-live-key-united-states",
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Bloodstained: Ritual of the Night (PC) Steam Key UNITED STATES",
-        "precio_original": 1.7,
-        "precio_venta": 4.7,
+        "titulo": "Ready or Not (PC) Steam Key UNITED STATES",
+        "precio_original": 18.52,
+        "precio_venta": 21.52,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-bloodstained-ritual-of-the-night-pc-steam-key-united-states",
+        "link_compra": "https://www.eneba.com/steam-ready-or-not-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
-        "titulo": "EA SPORTS™ College Football 27 (Xbox Series X|S) XBOX LIVE Key UNITED STATES",
-        "precio_original": 57.54,
-        "precio_venta": 60.54,
-        "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
-        "link_compra": "https://www.eneba.com/xbox-ea-sportstm-college-football-27-xbox-series-x-s-xbox-live-key-united-states",
+        "titulo": "Silent Hill Homecoming (PC) Steam Key UNITED STATES",
+        "precio_original": 19.99,
+        "precio_venta": 22.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-silent-hill-homecoming-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
         "titulo": "The Outlast Trials XBOX LIVE Key UNITED STATES",
-        "precio_original": 18.79,
-        "precio_venta": 21.79,
+        "precio_original": 18.8,
+        "precio_venta": 21.8,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-the-outlast-trials-xbox-live-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "SUPERHOT Steam Key UNITED STATES",
+        "precio_original": 22.49,
+        "precio_venta": 25.49,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-superhot-steam-key-united-states",
         "plataforma": "Xbox"
     }
 ]

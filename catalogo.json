@@ -25,8 +25,8 @@
     },
     {
         "titulo": "Palworld Steam Key (PC) UNITED STATES",
-        "precio_original": 36.35,
-        "precio_venta": 39.35,
+        "precio_original": 36.29,
+        "precio_venta": 39.29,
         "imagen": "https://imgproxy.eneba.games/OnGgmNIwQr99BMLhAwrJi41tl3BTrwXwLx1xhR3CVrU/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9x/ekRmUkZTWk8tR1U1/V2dDczlRb3YxYkpj/elIxeHlEM1N1bWlh/b2VxeG84LmpwZw",
         "link_compra": "https://www.eneba.com/steam-palworld-steam-key-pc-united-states",
         "plataforma": "Xbox"
@@ -57,8 +57,8 @@
     },
     {
         "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
-        "precio_original": 49.7,
-        "precio_venta": 52.7,
+        "precio_original": 49.69,
+        "precio_venta": 52.69,
         "imagen": "https://imgproxy.eneba.games/oNSp7ZZ8qXveGKsOEXyNA7gFo2KcmCEmESO8iEwZIq8/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy93/RDNIOXBNOXpGMmpV/T1B5LVRyX1ZlQmRH/QTlSTk04Vnc3ZHYy/M3lQQ2VNLmpwZw",
         "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
         "plataforma": "Xbox"
@@ -121,32 +121,24 @@
     },
     {
         "titulo": "Halo: The Master Chief Collection (Xbox One) Xbox Live Key UNITED STATES",
-        "precio_original": 16.73,
-        "precio_venta": 19.73,
+        "precio_original": 17.3,
+        "precio_venta": 20.3,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-halo-the-master-chief-collection-xbox-one-xbox-live-key-united-states",
         "plataforma": "Xbox"
     },
     {
         "titulo": "Call of Duty: Black Ops 7 Cross-Gen Bundle XBOX LIVE Key UNITED STATES",
-        "precio_original": 44.96,
-        "precio_venta": 47.96,
+        "precio_original": 44.86,
+        "precio_venta": 47.86,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-call-of-duty-black-ops-7-cross-gen-bundle-xbox-live-key-united-states",
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Tomodachi Life™: Living the Dream (Nintendo Switch) eShop Key UNITED STATES",
-        "precio_original": 49.86,
-        "precio_venta": 52.86,
-        "imagen": "https://products.eneba.games/drms/v1/nintendo.svg",
-        "link_compra": "https://www.eneba.com/nintendo-tomodachi-lifetm-living-the-dream-nintendo-switch-eshop-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
         "titulo": "Bloodstained: Ritual of the Night (PC) Steam Key UNITED STATES",
-        "precio_original": 1.7,
-        "precio_venta": 4.7,
+        "precio_original": 1.68,
+        "precio_venta": 4.68,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-bloodstained-ritual-of-the-night-pc-steam-key-united-states",
         "plataforma": "Xbox"
@@ -157,6 +149,14 @@
         "precio_venta": 21.99,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-slime-rancher-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "Squirrel with a Gun (PC) Steam Key UNITED STATES",
+        "precio_original": 19.99,
+        "precio_venta": 22.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-squirrel-with-a-gun-pc-steam-key-united-states",
         "plataforma": "Xbox"
     }
 ]

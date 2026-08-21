@@ -33,8 +33,8 @@
     },
     {
         "titulo": "Minecraft: Java & Bedrock Edition (PC) Official website Key UNITED STATES",
-        "precio_original": 18.42,
-        "precio_venta": 21.42,
+        "precio_original": 18.4,
+        "precio_venta": 21.4,
         "imagen": "https://imgproxy.eneba.games/xlbf5VpwMdfFult6X_0E7DPaewitogBWBqFqpP03m8k/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/YmR4N2loekprNDhi/QVNpX0cwakhFZ3gy/b2JmR1lFX3ROeVdz/anRKNGE0LnBuZw",
         "link_compra": "https://www.eneba.com/other-minecraft-java-bedrock-edition-pc-official-website-key-united-states",
         "plataforma": "Xbox"
@@ -56,27 +56,19 @@
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Slime Rancher (PC) Steam Key UNITED STATES",
-        "precio_original": 18.99,
-        "precio_venta": 21.99,
-        "imagen": "https://imgproxy.eneba.games/cARmXFuqlLRku40WniIuOWoorEEMcWXEhKKpYPibH4E/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9X/TzFrUnNuRHBCcXdT/cjZXcGI0a3FhUC1V/cmNlTGN6bmVRdHh3/YWNONS1vLmpwZWc",
-        "link_compra": "https://www.eneba.com/steam-slime-rancher-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
         "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
-        "precio_original": 50.24,
-        "precio_venta": 53.24,
-        "imagen": "https://products.eneba.games/drms/v1/psn.svg",
+        "precio_original": 50.25,
+        "precio_venta": 53.25,
+        "imagen": "https://imgproxy.eneba.games/oNSp7ZZ8qXveGKsOEXyNA7gFo2KcmCEmESO8iEwZIq8/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy93/RDNIOXBNOXpGMmpV/T1B5LVRyX1ZlQmRH/QTlSTk04Vnc3ZHYy/M3lQQ2VNLmpwZw",
         "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
         "plataforma": "Xbox"
     },
     {
-        "titulo": "HELLDIVERS 2 XBOX LIVE Key UNITED STATES",
-        "precio_original": 32.69,
-        "precio_venta": 35.69,
-        "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
-        "link_compra": "https://www.eneba.com/xbox-helldivers-2-xbox-live-key-united-states",
+        "titulo": "Slime Rancher (PC) Steam Key UNITED STATES",
+        "precio_original": 18.99,
+        "precio_venta": 21.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-slime-rancher-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -85,6 +77,14 @@
         "precio_venta": 21.98,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-ready-or-not-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "HELLDIVERS 2 XBOX LIVE Key UNITED STATES",
+        "precio_original": 32.69,
+        "precio_venta": 35.69,
+        "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
+        "link_compra": "https://www.eneba.com/xbox-helldivers-2-xbox-live-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -97,26 +97,10 @@
     },
     {
         "titulo": "Risk of Rain 2 (PC) Steam Key UNITED STATES",
-        "precio_original": 5.2,
-        "precio_venta": 8.2,
+        "precio_original": 5.19,
+        "precio_venta": 8.19,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-risk-of-rain-2-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Marvel's Spider-Man 2 (PC) Steam Key UNITED STATES",
-        "precio_original": 59.99,
-        "precio_venta": 62.99,
-        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-marvels-spider-man-2-pc-steam-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Tomb Raider I-III Remastered Starring Lara Croft (PC) Steam Key UNITED STATES",
-        "precio_original": 28.99,
-        "precio_venta": 31.99,
-        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-tomb-raider-i-iii-remastered-starring-lara-croft-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -128,11 +112,27 @@
         "plataforma": "Xbox"
     },
     {
+        "titulo": "Tomb Raider I-III Remastered Starring Lara Croft (PC) Steam Key UNITED STATES",
+        "precio_original": 28.99,
+        "precio_venta": 31.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-tomb-raider-i-iii-remastered-starring-lara-croft-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
         "titulo": "Baldur's Gate 3 (Xbox Series X|S) Xbox Live Key UNITED STATES",
         "precio_original": 48.98,
         "precio_venta": 51.98,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-baldurs-gate-3-xbox-series-x-s-xbox-live-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "Marvel's Spider-Man 2 (PC) Steam Key UNITED STATES",
+        "precio_original": 59.99,
+        "precio_venta": 62.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-marvels-spider-man-2-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {

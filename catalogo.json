@@ -33,18 +33,10 @@
     },
     {
         "titulo": "Minecraft: Java & Bedrock Edition (PC) Official website Key UNITED STATES",
-        "precio_original": 18.5,
-        "precio_venta": 21.5,
+        "precio_original": 18.49,
+        "precio_venta": 21.49,
         "imagen": "https://imgproxy.eneba.games/xlbf5VpwMdfFult6X_0E7DPaewitogBWBqFqpP03m8k/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9E/YmR4N2loekprNDhi/QVNpX0cwakhFZ3gy/b2JmR1lFX3ROeVdz/anRKNGE0LnBuZw",
         "link_compra": "https://www.eneba.com/other-minecraft-java-bedrock-edition-pc-official-website-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Palworld Steam Key (PC) UNITED STATES",
-        "precio_original": 28.99,
-        "precio_venta": 31.99,
-        "imagen": "https://imgproxy.eneba.games/OnGgmNIwQr99BMLhAwrJi41tl3BTrwXwLx1xhR3CVrU/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9x/ekRmUkZTWk8tR1U1/V2dDczlRb3YxYkpj/elIxeHlEM1N1bWlh/b2VxeG84LmpwZw",
-        "link_compra": "https://www.eneba.com/steam-palworld-steam-key-pc-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -53,6 +45,14 @@
         "precio_venta": 5.78,
         "imagen": "https://imgproxy.eneba.games/pMesIej_ShvsHuF3xMlplWfZ4jHN7LqA6njUzrk9aSc/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9v/aXRUb3RzNndVb01V/YmNNRVRsT2s5S2JX/TlM1LTRnVmxzdnkt/WHhVSEdNLmpwZWc",
         "link_compra": "https://www.eneba.com/steam-sunset-overdrive-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "Palworld Steam Key (PC) UNITED STATES",
+        "precio_original": 28.99,
+        "precio_venta": 31.99,
+        "imagen": "https://imgproxy.eneba.games/OnGgmNIwQr99BMLhAwrJi41tl3BTrwXwLx1xhR3CVrU/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9x/ekRmUkZTWk8tR1U1/V2dDczlRb3YxYkpj/elIxeHlEM1N1bWlh/b2VxeG84LmpwZw",
+        "link_compra": "https://www.eneba.com/steam-palworld-steam-key-pc-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -73,18 +73,10 @@
     },
     {
         "titulo": "HELLDIVERS 2 XBOX LIVE Key UNITED STATES",
-        "precio_original": 32.66,
-        "precio_venta": 35.66,
+        "precio_original": 32.5,
+        "precio_venta": 35.5,
         "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
         "link_compra": "https://www.eneba.com/xbox-helldivers-2-xbox-live-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
-        "precio_original": 50.21,
-        "precio_venta": 53.21,
-        "imagen": "https://products.eneba.games/drms/v1/psn.svg",
-        "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -93,6 +85,14 @@
         "precio_venta": 21.86,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-ready-or-not-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "EA SPORTS™ College Football 27 Standard Edition (PS5) PSN Key UNITED STATES",
+        "precio_original": 50.22,
+        "precio_venta": 53.22,
+        "imagen": "https://products.eneba.games/drms/v1/psn.svg",
+        "link_compra": "https://www.eneba.com/psn-ea-sportstm-college-football-27-standard-edition-ps5-psn-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -112,11 +112,27 @@
         "plataforma": "Xbox"
     },
     {
+        "titulo": "Tomb Raider I-III Remastered Starring Lara Croft (PC) Steam Key UNITED STATES",
+        "precio_original": 28.99,
+        "precio_venta": 31.99,
+        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
+        "link_compra": "https://www.eneba.com/steam-tomb-raider-i-iii-remastered-starring-lara-croft-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
         "titulo": "Escape the Backrooms (PC) Steam Key UNITED STATES",
         "precio_original": 5.96,
         "precio_venta": 8.96,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-escape-the-backrooms-pc-steam-key-united-states",
+        "plataforma": "Xbox"
+    },
+    {
+        "titulo": "MLB® The Show™ 26 Standard Edition (Xbox Series X|S) XBOX LIVE Key UNITED STATES",
+        "precio_original": 28.64,
+        "precio_venta": 31.64,
+        "imagen": "https://products.eneba.games/drms/v1/xbox.svg",
+        "link_compra": "https://www.eneba.com/xbox-mlb-r-the-showtm-26-standard-edition-xbox-series-x-s-xbox-live-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -128,11 +144,11 @@
         "plataforma": "Xbox"
     },
     {
-        "titulo": "Marvel's Spider-Man 2 (PC) Steam Key UNITED STATES",
-        "precio_original": 59.99,
-        "precio_venta": 62.99,
+        "titulo": "Dead Rising 2 (PC) Steam Key UNITED STATES",
+        "precio_original": 3.71,
+        "precio_venta": 6.71,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-marvels-spider-man-2-pc-steam-key-united-states",
+        "link_compra": "https://www.eneba.com/steam-dead-rising-2-pc-steam-key-united-states",
         "plataforma": "Xbox"
     },
     {
@@ -141,22 +157,6 @@
         "precio_venta": 32.99,
         "imagen": "https://products.eneba.games/drms/v1/steam.svg",
         "link_compra": "https://www.eneba.com/steam-devil-may-cry-5-vergil-steam-pc-key-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Date Everything! Steam Key (PC) UNITED STATES",
-        "precio_original": 29.99,
-        "precio_venta": 32.99,
-        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-date-everything-steam-key-pc-united-states",
-        "plataforma": "Xbox"
-    },
-    {
-        "titulo": "Tomb Raider I-III Remastered Starring Lara Croft (PC) Steam Key UNITED STATES",
-        "precio_original": 28.99,
-        "precio_venta": 31.99,
-        "imagen": "https://products.eneba.games/drms/v1/steam.svg",
-        "link_compra": "https://www.eneba.com/steam-tomb-raider-i-iii-remastered-starring-lara-croft-pc-steam-key-united-states",
         "plataforma": "Xbox"
     }
 ]
